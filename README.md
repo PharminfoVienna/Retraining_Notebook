@@ -1,5 +1,5 @@
 # Retraining_Notebook
-Using Jupyter Notebooks for Re-training Machine Learning Models
+Re-training Machine Learning Models using Jupyter Notebooks
 
 
 A Jupyter Notebook is provided to generate/retrain classification models for six transporter proteins (BCRP, BSEP, OATP1B1, OATP1B3, MRP3, P-gp). Four different classifiers can be selected without an extensive descriptor selection and hyperparameter search as they have been pre-selected. An in-house data set can be combined with the available UNIVIE data set(s) to extend the chemical space of the model. 
