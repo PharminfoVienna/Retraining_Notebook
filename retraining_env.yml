@@ -1,0 +1,31 @@
+name: retraining_env
+channels:
+  - conda-forge
+  - rdkit
+  - defaults
+dependencies:
+  - ipykernel
+  - jupyter=1.0.0
+  - jupyter-packaging=0.7.12
+  - jupyter_client=6.1.12
+  - jupyter_console=6.4.0
+  - jupyter_contrib_core=0.4.0
+  - jupyter_contrib_nbextensions=0.5.1
+  - jupyter_core=4.7.1
+  - jupyter_highlight_selected_word=0.2.0
+  - jupyter_latex_envs=1.4.6
+  - jupyter_server=1.4.1
+  - jupyterlab=3.0.14
+  - jupyterlab_pygments=0.1.2
+  - jupyterlab_server=2.4.0
+  - jupyterlab_widgets=1.0.0
+  - nb_conda_kernels
+  - notebook=6.3.0
+  - numpy=1.20.2
+  - matplotlib=3.3.1
+  - pandas=1.1.2
+  - python=3.7.10
+  - rdkit=2020.09.1.0
+  - scikit-image=0.18.1
+  - scikit-learn=0.24.2
+  - standardiser
